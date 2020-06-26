@@ -6,7 +6,7 @@ This codebase serves as an example of incrementally adopting React into a very l
 ## Installations
 
 * `npm`
-* '.NET` - You could use .NET Core, but you would need to change the target framework for the app.
+* `.NET` - You could use .NET Core, but you would need to change the target framework for the app.
 
 I also recommend running this in Visual Studio 2019 Community on Win10 or Mac.
 
